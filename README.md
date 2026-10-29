@@ -11,11 +11,11 @@
 <h2 align="center">KRDS</h2>
 
 <p align="center">
-  <a href="https://github.com/Initializer-org/krds-vue">KRDS Vue ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Initializer-org/krds-react">KRDS React ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Initializer-org/krds-angular">KRDS Angular ↗</a>
+  <a href="https://github.com/Initializer-org/krds-vue"><img src="https://img.shields.io/badge/KRDS_Vue-23875B?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="KRDS Vue" /></a>
+  &nbsp;
+  <a href="https://github.com/Initializer-org/krds-react"><img src="https://img.shields.io/badge/KRDS_React-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="KRDS React" /></a>
+  &nbsp;
+  <a href="https://github.com/Initializer-org/krds-angular"><img src="https://img.shields.io/badge/KRDS_Angular-7C3AED?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="KRDS Angular" /></a>
 </p>
 
 <br />

@@ -20,7 +20,7 @@ I work on KRDS component libraries for Vue, React, and Angular, with a focus on 
 - **Form components** — Added Angular inputs, date selection, file uploads, and form groups with accessible labels and validation feedback. [Angular #4](https://github.com/Initializer-org/krds-angular/pull/4)
 - **Documentation** — Clarified React usage, compatibility, and known issues, moving contributor details into the development section. [React #3](https://github.com/Initializer-org/krds-react/pull/3)
 
-## Community
+## My projects
 
 <a href="https://github.com/initializer-stack"><img src="https://avatars.githubusercontent.com/u/344263412?s=160&amp;v=4" width="24" height="24" alt="initializer-stack" /></a>
 &nbsp;[initializer-stack](https://github.com/initializer-stack)

@@ -37,6 +37,18 @@ I work on KRDS component libraries for Vue, React, and Angular, with a focus on 
   </tbody>
 </table>
 
+## Now
+
+Exploring accessible UI patterns, shared API contracts, and tools that work locally.
+
+## Notes
+
+Selected guides and design notes from my projects. Written in Korean.
+
+- [Architecture decisions in iStack](https://github.com/initializer-stack/template/blob/main/docs/decisions/README.md) — Why the stack uses code-first HTTP contracts, shared gRPC definitions, and PostgreSQL.
+- [Testing against real infrastructure](https://github.com/initializer-stack/template/blob/main/docs/concepts/testing.md) — What API integration tests verify, from HTTP requests to database writes.
+- [Building KRDS interfaces with coding agents](https://github.com/Initializer-org/krds-vue/blob/main/docs/guide/ai.md) — Project instructions and documentation for AI-assisted UI development.
+
 ---
 
 <sub>Build. Learn. Refine.</sub>

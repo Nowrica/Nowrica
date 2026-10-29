@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40" role="img" aria-label="React · TypeScript · JavaScript">
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600">
+<rect x=".5" y=".5" width="119" height="39" rx="8" fill="#111D2B" stroke="#26394C"/><circle cx="21" cy="20" r="4" fill="#61DAFB"/><text x="35" y="25" fill="#DDEBF5">React</text>
+<rect x="130.5" y=".5" width="139" height="39" rx="8" fill="#111D2B" stroke="#26394C"/><circle cx="151" cy="20" r="4" fill="#6DB2FF"/><text x="165" y="25" fill="#DDEBF5">TypeScript</text>
+<rect x="280.5" y=".5" width="139" height="39" rx="8" fill="#111D2B" stroke="#26394C"/><circle cx="301" cy="20" r="4" fill="#F7DF1E"/><text x="315" y="25" fill="#DDEBF5">JavaScript</text>
+</g></svg>

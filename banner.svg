@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Nowrica — Build. Learn. Refine.</title>
+<desc id="desc">Midnight navy banner with mint typography, an orbital N monogram, and a subtle blueprint grid.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#101C2C"/><stop offset="1" stop-color="#080E18"/></linearGradient>
+ <linearGradient id="ink" x1="846" y1="98" x2="1050" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#8CF7CD"/><stop offset="1" stop-color="#69B9F7"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#B5D6E9" stroke-opacity=".055"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="360" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="360" fill="url(#bg)"/>
+ <rect width="1200" height="360" fill="url(#grid)"/>
+ <path d="M0 359H1200" stroke="#8CF7CD" stroke-opacity=".3"/>
+ <circle cx="943" cy="180" r="195" stroke="#93C8DB" stroke-opacity=".07"/>
+ <circle cx="943" cy="180" r="151" stroke="#93C8DB" stroke-opacity=".12"/>
+ <circle cx="943" cy="180" r="111" fill="#0D1B29" stroke="#93C8DB" stroke-opacity=".18"/>
+ <ellipse cx="943" cy="180" rx="209" ry="65" transform="rotate(-29 943 180)" stroke="#8CF7CD" stroke-opacity=".55"/>
+ <circle cx="1103" cy="78" r="6" fill="#8CF7CD"/>
+ <circle cx="787" cy="284" r="4" fill="#69B9F7"/>
+ <path d="M891 233V127L995 233V127" stroke="url(#ink)" stroke-width="18" stroke-linecap="square" stroke-linejoin="bevel"/>
+ <circle cx="63" cy="62" r="4" fill="#8CF7CD"/>
+ <text x="79" y="68" fill="#9AB0C3" font-family="SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="3">A WORKSPACE FOR CURIOSITY</text>
+ <text x="58" y="176" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="89" font-weight="700" letter-spacing="-4">Nowrica<tspan fill="#8CF7CD">.</tspan></text>
+ <text x="63" y="226" fill="#ADC1D1" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing=".5">Build. Learn. Refine.</text>
+ <path d="M63 278H107" stroke="#8CF7CD" stroke-width="2"/>
+ <text x="122" y="284" fill="#8199AD" font-family="SFMono-Regular,Consolas,monospace" font-size="14" letter-spacing="2">CODE / EXPERIMENTS / NOTES</text>
+</g>
+</svg>

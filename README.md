@@ -1,45 +1,33 @@
-<p align="center">
-  <img src="./banner.svg" alt="Nowrica — Build. Learn. Refine." width="100%" />
-</p>
+# Nowrica
 
-<p align="center">
-  <b>만들어 보고, 이해하고, 더 나은 코드로.</b>
-</p>
+I work on KRDS component libraries for Vue, React, and Angular, with a focus on accessibility, keyboard interaction, and clear documentation.
 
-<br />
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Nowrica/badge.svg)](https://hub.xerj.org/contributors/Nowrica)
 
-<h2 align="center">KRDS</h2>
+## Open source
 
-<p align="center">
-  <a href="https://github.com/Initializer-org/krds-vue"><img src="https://img.shields.io/badge/KRDS_Vue-23875B?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="KRDS Vue" /></a>
-  &nbsp;
-  <a href="https://github.com/Initializer-org/krds-react"><img src="https://img.shields.io/badge/KRDS_React-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="KRDS React" /></a>
-  &nbsp;
-  <a href="https://github.com/Initializer-org/krds-angular"><img src="https://img.shields.io/badge/KRDS_Angular-7C3AED?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="KRDS Angular" /></a>
-</p>
+**KRDS** — Korea's government design system, adapted for modern web frameworks.
 
-<br />
+| Project | Focus | Explore |
+| :--- | :--- | :--- |
+| [![KRDS Vue](https://img.shields.io/badge/KRDS_Vue-23875B?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/Initializer-org/krds-vue) | Vue 3 and TypeScript components with browser-based accessibility tests. | [Docs](https://krds.initializer.org/) |
+| [![KRDS React](https://img.shields.io/badge/KRDS_React-087EA4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Initializer-org/krds-react) | A port of the official KRDS React package, with Next.js App Router support. | [Docs](https://react.krds.initializer.org/) |
+| [![KRDS Angular](https://img.shields.io/badge/KRDS_Angular-7C3AED?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Initializer-org/krds-angular) | Angular components using native form controls and KRDS styles. In early development. | [Source](https://github.com/Initializer-org/krds-angular) |
 
-<h2 align="center">Community</h2>
+### Selected contributions
 
-<p align="center">
-  <a href="https://github.com/initializer-stack"><img src="https://avatars.githubusercontent.com/u/344263412?s=160&amp;v=4" width="48" height="48" alt="initializer-stack" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/openportfolio"><img src="https://avatars.githubusercontent.com/u/343919999?s=160&amp;v=4" width="48" height="48" alt="openportfolio" /></a>
-</p>
+- **Keyboard navigation** — Fixed Vue side-menu semantics and preserved focus when tabbing out of a popup, with accessibility regression tests. [Vue #316](https://github.com/Initializer-org/krds-vue/pull/316)
+- **Form components** — Added Angular inputs, date selection, file uploads, and form groups with accessible labels and validation feedback. [Angular #4](https://github.com/Initializer-org/krds-angular/pull/4)
+- **Documentation** — Clarified React usage, compatibility, and known issues, moving contributor details into the development section. [React #3](https://github.com/Initializer-org/krds-react/pull/3)
 
-<p align="center">
-  <a href="https://github.com/initializer-stack">initializer-stack ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/openportfolio">openportfolio ↗</a>
-</p>
+## Community
 
-<p align="center">
-  <a href="https://hub.xerj.org/contributors/Nowrica"><img src="https://hub.xerj.org/contributors/Nowrica/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
-</p>
-
-<br />
+<a href="https://github.com/initializer-stack"><img src="https://avatars.githubusercontent.com/u/344263412?s=160&amp;v=4" width="24" height="24" alt="initializer-stack" /></a>
+&nbsp;[initializer-stack](https://github.com/initializer-stack)
+&nbsp; · &nbsp;
+<a href="https://github.com/openportfolio"><img src="https://avatars.githubusercontent.com/u/343919999?s=160&amp;v=4" width="24" height="24" alt="openportfolio" /></a>
+&nbsp;[openportfolio](https://github.com/openportfolio)
 
 ---
 
-<p align="center"><sub>NOWRICA &nbsp; / &nbsp; Build. Learn. Refine.</sub></p>
+<sub>Build. Learn. Refine.</sub>
